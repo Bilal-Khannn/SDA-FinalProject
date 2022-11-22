@@ -1,0 +1,8 @@
+.image{
+-fx-background-image:url('firstimage.jpeg');
+-fx-background-size:     cover;                      /* <------ */
+-fx-background-repeat:   no-repeat;
+-fx-background-position: center center;              /* optional, center the image */
+-fx-opacity: 0.5;
+
+}
